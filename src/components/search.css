@@ -1,0 +1,23 @@
+.search-content {
+  display: flex;
+  flex-direction: column;
+  padding-top: 1rem;
+}
+.input-search {
+  width: 50%;
+  height: 2rem;
+  background: #ccc;
+}
+.search-button {
+  background: purple;
+  color: white;
+  height: 2rem;
+  width: 5rem;
+}
+.table-conteiner {
+  display: flex;
+  flex-direction: column;
+}
+.table-conteiner li {
+  width: 5rem;
+}
